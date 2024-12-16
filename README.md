@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/0e43363c-8846-41cf-9d3e-19d02261be26)
+
 # Zoologico-DJANGO
 # Proyecto Zoológico en Django
 
