@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/e4cd4caa-8db0-4698-9cba-912519c38baf)
+
 
 
 # Zoologico-DJANGO
